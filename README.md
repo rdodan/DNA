@@ -1,2 +1,1 @@
-# DNA
- Creating a linked-list abstration for a specific problem
+In this project I created linked list abstraction based of a specific problem. Knowing that the DNA is formed based of 4 unique letters, and given the DNA for a student, the project purpose was to find whose DNA  was, based of a string of characters. 
